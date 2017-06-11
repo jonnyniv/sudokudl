@@ -10,4 +10,4 @@ sudokudlx: $(OBJS)
 	$(CC) -c $<
 
 clean:
-	rm $(OBJS)
+	rm $(OBJS) sudokudlx
